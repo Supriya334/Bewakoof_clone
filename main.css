@@ -1,0 +1,460 @@
+.slider-image {
+    display: flex;
+    align-items: center;
+    width: 99%;
+    justify-content: center;
+}
+
+.slider-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    /* margin: 31px; */
+}
+
+
+.slider-image-child img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 10px;
+}
+
+
+/* minni images */
+.mini-img {
+    display: flex;
+    /* border: 1px solid red; */
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.mini-img-child {
+    height: 220px;
+}
+
+.mini-img-child>img {
+    height: 100%;
+    width: 100%;
+}
+
+.mini-img-child>p {
+    font-size: 16px;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/* image-1 */
+
+.img-1 {
+    margin-top: 70px;
+    width: 100%;
+}
+
+.img-1>img {
+    width: 100%;
+}
+
+
+/* trending categories */
+
+.h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 27px
+}
+
+.trend {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    align-items: center;
+    justify-content: center;
+}
+
+/* orginals */
+
+.org {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.org-child {
+    width: 23.5%;
+}
+
+/* miss */
+
+.miss {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.miss-child {
+    width: 100%;
+}
+
+.miss-child>img {
+    width: 100%;
+}
+
+/* categories to bag */
+
+.bag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.bag-child {
+    width: 19%;
+}
+
+.bag-child>img {
+    width: 100%;
+}
+
+
+
+/* dress */
+.dress {
+    display: flex;
+
+}
+
+.dress-child {
+    width: 33%;
+    padding: 10px;
+}
+
+.dress-child>img {
+    width: 100%;
+}
+
+/* top */
+
+.topp {
+    display: flex;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+
+
+/* sellers */
+
+.sell {
+    display: flex;
+    /* margin-top: 30px; */
+}
+
+.sell-child {
+    border: 1px solid rgb(187, 184, 184);
+    margin: 5px;
+    height: 490px;
+}
+.sell-child>img:hover{
+    opacity: 0.5;
+}
+ .bxs-heart{
+color: red;
+font-size: 25px;
+}
+
+
+/* our best picks */
+
+.best-picks{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}
+
+
+.best-picks-child>img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+
+/* random-img */
+
+.random-img, .random-img-2{
+    width: 100%;
+}
+.random-img>img ,.random-img-2>img{
+    width: 100%;
+}
+
+
+
+/* footer */
+
+.footer-div{
+    background-color: black;
+    height: 3200px;
+    width: 100%;
+}
+  
+.footer{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    /* border: 1px solid white; */
+}
+
+.customer{
+    width: 25%;
+}
+
+.customer>ul{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: rgb(231, 206, 43);
+    list-style: none;
+    text-align: left;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.customer>li{
+    text-align: left;
+    color: white;
+    list-style: none;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.customer>li>.my-ic{
+    font-size: 22px;
+    padding: 3px;
+}
+
+.customer>input{
+    background-color: black;
+    border: none;
+    border-bottom: 1px solid rgb(255, 208, 0);
+    height: 30px;
+    width: 210px;
+}
+.customer>button{
+    background-color: rgb(255, 234, 0);
+    width: 120px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.days-15{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    /* border: 1px solid white; */
+}
+
+.days-15-child{
+    padding: 20px;
+    margin-left: 25px;
+}
+.days-15-child>li{
+    color: aliceblue;
+    list-style: none;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 13px;
+}
+.days-15-child>ul{
+    color: rgb(239, 216, 10);
+    list-style: none;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.men-women{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    /* border: 1px solid white; */
+}
+.clothing{
+    padding: 40px;
+}
+
+.clothing>li{
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 17px;
+list-style: none;
+text-align: left;
+}
+.fab{
+    font-size: 21px;
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+
+
+.writing{
+    color: aliceblue;
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    margin-top: 30px;
+}
+.writing>h4{
+    text-align: left;
+    margin-top: 40px;
+    color: rgb(236, 243, 243);
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.writing>p{
+    text-align: left;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+/* MEDIA QUERY  */
+
+@media all and (max-width:750px){
+    .h2{
+        text-align: center;
+    }
+    .mini-img {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+
+    .trend{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+    }
+
+    .org{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .miss {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .bag{
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .bag-child{
+        width: 100%;
+    }
+
+    .dress{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .dress-child{
+    width: 100%;
+    }    
+
+    .topp{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        align-items: center;
+ 
+    }
+    .sell{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .sell-child{
+        width: 100%;
+    }
+    .best-picks{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .best-picks-child{
+        width: 100%;
+    }
+    .best-picks-child>img{
+        width: 100%;
+    }
+}
+
+@media all and (max-width:350px){
+    .h2{
+        text-align: center;
+    }
+    .mini-img {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .trend{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .org{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .miss {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .bag{
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .bag-child{
+        width: 100%;
+    }
+    .topp{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        align-items: center;
+ 
+    }
+    .sell{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .sell-child{
+        width: 100%;
+    }
+    .best-picks{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .best-picks-child{
+        width: 100%;
+    }
+    .best-picks-child>img{
+        width: 100%;
+    }
+}
