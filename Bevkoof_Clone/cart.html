@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="prod.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="main.css">
+    <title>cart page</title>
+
+</head>
+
+<body>
+
+      
+    <!-- first navbar -->
+    <div class="top">
+        <div class="top-child">
+            <a href="">Offers</a><a href="">Fanbook</a><a href="">
+                <> Download App
+            </a><a href="">TriBe Membership</a>
+        </div>
+        <div class="top-child">
+            <a href="">Contact Us</a><a href="">Track Order</a>
+        </div>
+    </div>
+
+    <!-- second navbar -->
+
+    <div class="s-sec-top">
+
+        <div class="sec-top">
+
+            <!-- logo -->
+            <div class="sec-top-child">
+                <a href="http://127.0.0.1:5501/index.html"> <img
+                        src="https://images.bewakoof.com/web/ic-desktop-bwkf-trademark-logo.svg" alt=""
+                        class="logo"></a>
+            </div>
+
+
+            <!-- men women mobile cover -->
+            <div class="sec-top-child-a"> <a href="prod.html">MEN</a><a href="prod2.html">WOMEN</a><a
+                    href="mobile.html">MOBILE COVERS</a> </div>
+
+
+            <!-- search,  -->
+            <div class="sec-top-child-icon">
+                <div class="search">
+                    <i class='bx bx-search-alt-2'></i>
+                    <input type="text" placeholder="Search by product, category pr colle">
+                </div>
+
+
+                <!-- login -->
+                <div class="login" id="loginSection">
+                    <a href="login.html" id="loginLink">Login</a>
+
+                    <i class='bx bx-heart'></i>
+                    <a href="cart.html"><i class='bx bx-shopping-bag'></i></a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="menN">
+        <p>Home </p>/
+        <p>Women Clothing</p>/
+        <p>Women's Oversized</p>
+    </div>
+
+
+    <!-- filter part -->
+    <div class="buttons">
+        <h2>sorting:</h2>
+        <button id="lowToHigh">low to high</button>
+        <button id="highToLow"> high to low</button>
+    </div>
+    <div class="main-cont">
+        
+        <div class="cont-child2">
+
+            <!-- <div class="card"> -->
+                <!-- <img src="" alt="">
+                <h3></h3>
+                <p></p>
+                <p></p> -->
+            <!-- </div> -->
+
+        </div>
+       
+       
+    </div>
+
+</body>
+
+<script>
+    const container = document.querySelector(".cont-child2");
+
+    const fetchCartData = async () => {
+        try {
+            const response = await fetch('http://localhost:3000/cart');
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            const cartData = await response.json();
+            displayCartData(cartData);
+
+        console.log(cartData)
+
+        } catch (error) {
+            console.error('Error:', error);
+        }
+    };
+
+    const displayCartData = (cartData) => {
+        container.innerHTML = ""; // Clear previous content
+        cartData.forEach(item => {
+            const div = document.createElement("div");
+            div.className = "cart-item";
+            div.innerHTML = `
+                <img src="${item.image}" alt="">
+                <h3>${item.name}</h3>
+                <p>${item.price}</p>
+                <p>${item.quantity}</p>`;
+            container.appendChild(div);
+        });
+    };
+
+    fetchCartData();
+</script>
+
+</html>

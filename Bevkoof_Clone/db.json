@@ -1,0 +1,624 @@
+{
+  "accessories": [
+    {
+      "id": "21",
+      "image": "https://th.bing.com/th/id/OIP.YZpsVXAu0eQu9zmMtLzeOQHaE8?w=267&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "536.00"
+    },
+    {
+      "id": "22",
+      "image": "https://images.bewakoof.com/t640/women-s-purple-oversized-t-shirt-502755-1700657112-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    },
+    {
+      "id": "23",
+      "image": "https://th.bing.com/th/id/OIP.xvaDJA1Ah4CDL4f_y3Rr8QHaE7?w=268&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "536.00"
+    },
+    {
+      "id": "24",
+      "image": "https://images.bewakoof.com/t640/women-s-black-power-up-graphic-printed-oversized-t-shirt-630870-1707367493-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "946.00"
+    },
+    {
+      "id": "25",
+      "image": "https://th.bing.com/th/id/OIP.CXQXx5xL1BOd7G_hWMBW6AHaI-?w=146&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "346.00"
+    },
+    {
+      "id": "26",
+      "image": "https://th.bing.com/th/id/OIP.dfxw9yejOJauG9J9R4Ha3gHaHa?w=170&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "446.00"
+    },
+    {
+      "id": "27",
+      "image": "https://th.bing.com/th/id/OIP.71DBXLIStX3jggGrPetv5QHaEo?w=299&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "346.00"
+    },
+    {
+      "id": "28",
+      "image": "https://images.bewakoof.com/t640/women-aop-oversize-t-shirt-13-580374-1685446733-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "446.00"
+    },
+    {
+      "id": "29",
+      "image": "https://th.bing.com/th/id/OIP.xFxKv3pzPBPyokNDfSz0agHaHa?w=213&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "500.00"
+    },
+    {
+      "id": "30",
+      "image": "https://images.bewakoof.com/t640/women-purple-solid-oversize-t-shirt-580331-1686300365-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "540.00"
+    },
+    {
+      "id": "31",
+      "image": "https://th.bing.com/th/id/OIP.QJiQU8hUjvM1PwOKC8llOwHaHa?w=208&h=208&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "506.00"
+    },
+    {
+      "id": "32",
+      "image": "https://images.bewakoof.com/t640/women-s-black-customizable-oversized-t-shirt-625974-1699446534-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "516.00"
+    },
+    {
+      "id": "33",
+      "image": "https://th.bing.com/th/id/OIP.rxCh9kqfLFz56H27ncCHewHaHa?w=177&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    },
+    {
+      "id": "34",
+      "image": "https://th.bing.com/th/id/OIP.mBpEM0QtBs4ngYTtSjAdkwHaE9?w=264&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "1206.00"
+    },
+    {
+      "id": "35",
+      "image": "https://th.bing.com/th/id/OIP.lXULWv3zhaUIlIvlrxaFOQHaHa?w=147&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "446.00"
+    },
+    {
+      "id": "36",
+      "image": "https://th.bing.com/th/id/OIP.YFkaghvUVRrB4rokX2OvDQHaFL?w=223&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "546.00"
+    },
+    {
+      "id": "37",
+      "image": "https://images.bewakoof.com/t640/women-blue-solid-tshirt-23-582040-1688996238-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "546.00"
+    },
+    {
+      "id": "38",
+      "image": "https://th.bing.com/th/id/OIP.1y7E_4p7C4GRBX8ZIXhcXwHaHa?w=180&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    },
+    {
+      "id": "39",
+      "image": "https://th.bing.com/th/id/OIP.fxKSkEtpseEVj9LIupzA9wHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    },
+    {
+      "id": "40",
+      "image": "https://th.bing.com/th/id/OIP.7UJE0XWwKRdGJjfUZdQhUAHaHa?w=193&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    }
+  ],
+  "men": [
+    {
+      "id": "1",
+      "image": "https://images.bewakoof.com/t640/men-s-white-jujutsu-sorcerer-graphic-printed-oversized-t-shirt-602837-1697626161-1.jpg ",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "746.00"
+    },
+    {
+      "id": "2",
+      "image": "https://images.bewakoof.com/t640/men-s-tie-dye-oversized-t-shirt-568216-1685096048-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "646.00"
+    },
+    {
+      "id": "3",
+      "image": "https://images.bewakoof.com/t640/men-oversized-tie-dye-t-shirt-568208-1682429565-1.JPG",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "946.00"
+    },
+    {
+      "id": "4",
+      "image": "https://images.bewakoof.com/t640/men-s-black-gojo-domain-graphic-printed-oversized-t-shirt-520746-1694764572-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "346.00"
+    },
+    {
+      "id": "5",
+      "image": "https://images.bewakoof.com/t640/men-s-white-marvel-ironman-typography-oversized-t-shirt-519161-1701342792-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "546.00"
+    },
+    {
+      "id": "6",
+      "image": "https://images.bewakoof.com/t640/men-s-black-batman-outline-logo-graphic-printed-oversized-t-shirt-519159-1708612775-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "506.00"
+    },
+    {
+      "id": "7",
+      "image": "https://images.bewakoof.com/t640/men-s-black-dope-af-typography-oversized-t-shirt-516548-1709216734-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "500.00"
+    },
+    {
+      "id": "8",
+      "image": "https://images.bewakoof.com/t640/men-s-black-customizable-oversized-t-shirt-620625-1709910640-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "456.00"
+    },
+    {
+      "id": "9",
+      "image": "https://images.bewakoof.com/t640/men-s-green-gimme-a-break-graphic-printed-oversized-t-shirt-603790-1704655320-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "646.00"
+    },
+    {
+      "id": "10",
+      "image": "https://images.bewakoof.com/t640/men-s-white-warrior-king-graphic-printed-oversized-t-shirt-521402-1709531641-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "596.00"
+    },
+    {
+      "id": "11",
+      "image": "https://images.bewakoof.com/t640/men-s-white-snoopy-jap-graphic-printed-oversized-t-shirt-569150-1709214938-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "576.00"
+    },
+    {
+      "id": "12",
+      "image": "https://images.bewakoof.com/t640/men-s-white-mood-of-the-day-panda-graphic-printed-oversized-t-shirt-519193-1709215078-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "346.00"
+    },
+    {
+      "id": "13",
+      "image": "https://images.bewakoof.com/t640/men-s-blue-monster-graphic-printed-oversized-t-shirt-538386-1708957185-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "446.00"
+    },
+    {
+      "id": "14",
+      "image": "https://images.bewakoof.com/t640/men-s-red-striped-oversized-t-shirt-425013-1667553371-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "546.00"
+    },
+    {
+      "id": "15",
+      "image": "https://images.bewakoof.com/t640/men-s-green-watching-you-change-colours-graphic-printed-oversized-t-shirt-592039-1700550347-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "543.00"
+    },
+    {
+      "id": "16",
+      "image": "https://images.bewakoof.com/t640/men-s-black-oversized-t-shirt-439421-1709216671-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "506.00"
+    },
+    {
+      "id": "17",
+      "image": "https://images.bewakoof.com/t640/men-s-black-off-typography-oversized-t-shirt-582801-1709274114-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "446.00"
+    },
+    {
+      "id": "18",
+      "image": "https://images.bewakoof.com/t640/men-s-black-off-typography-oversized-t-shirt-582801-1709274114-1.jpg",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "433.00"
+    },
+    {
+      "id": "19",
+      "image": "https://images.bewakoof.com/t640/men-oversized-tie-dye-t-shirt-568208-1682429565-1.JPG",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "446.00"
+    },
+    {
+      "id": "20",
+      "image": "https://images.bewakoof.com/t640/men-oversized-tie-dye-t-shirt-568208-1682429565-1.JPG",
+      "name": "Men's Extra long shirt",
+      "discount": "20% off by Bewakoof",
+      "price": "646.00"
+    }
+  ],
+  "mobile": [
+    {
+      "id": "1",
+      "image": "https://th.bing.com/th/id/OIP.vPghi1mCtFydgQW-c424xgHaHa?w=212&h=212&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Classy Mobile Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "746.00"
+    },
+    {
+      "id": "2",
+      "image": "https://th.bing.com/th/id/OIP.VpQrgiQoy2Oq96jby670ZgHaHj?w=208&h=212&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Lather Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "646.00"
+    },
+    {
+      "id": "3",
+      "image": "https://th.bing.com/th/id/OIP.-vHWH86nld8vYgmv1bKpdQAAAA?w=210&h=212&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Plastic Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "946.00"
+    },
+    {
+      "id": "4",
+      "image": "https://th.bing.com/th/id/OIP.neQm-yzK3Til09KDgRc2RgHaHa?w=212&h=212&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Protective Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "346.00"
+    },
+    {
+      "id": "5",
+      "image": "https://th.bing.com/th/id/OIP.pl8bS9YZ12SAt31TTGvvQQHaHa?w=187&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Lather Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "546.00"
+    },
+    {
+      "id": "6",
+      "image": "https://th.bing.com/th/id/OIP.Ca-Kmen3Xr2DWBpMOY28aQHaHa?w=187&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Classy Mobile Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "506.00"
+    },
+    {
+      "id": "7",
+      "image": "https://th.bing.com/th/id/OIP.FWNh2oSwq0LwcJGRU_RUGwHaIi?rs=1&pid=ImgDetMain",
+      "name": "Protective Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "500.00"
+    },
+    {
+      "id": "8",
+      "image": "https://images.bewakoof.com/t640/men-s-black-customizable-oversized-t-shirt-620625-1709910640-1.jpg",
+      "name": "Lather Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "456.00"
+    },
+    {
+      "id": "9",
+      "image": "https://th.bing.com/th/id/OIP.JJTxOD1VH6ouDSCr0AlO7gHaHa?w=195&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Classy Mobile Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "646.00"
+    },
+    {
+      "id": "10",
+      "image": "https://th.bing.com/th/id/OIP.hbYNEdiA5QJ1KWarie89sgHaLH?pid=ImgDet&w=150&h=219&c=7&dpr=1.3",
+      "name": "Plastic Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "596.00"
+    },
+    {
+      "id": "11",
+      "image": "https://th.bing.com/th/id/OIP.1EZzfPD_MESzoranE989aAHaHa?w=195&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Classy Mobile Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "576.00"
+    },
+    {
+      "id": "12",
+      "image": "https://th.bing.com/th/id/OIP.MgmK9JbGI4-1GXv_JYcxLwAAAA?w=195&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Plastic Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "346.00"
+    },
+    {
+      "id": "13",
+      "image": "https://images.bewakoof.com/t640/men-s-blue-monster-graphic-printed-oversized-t-shirt-538386-1708957185-1.jpg",
+      "name": "Classy Mobile Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "446.00"
+    },
+    {
+      "id": "14",
+      "image": "https://th.bing.com/th/id/OIP.HqWZd2bNWEu0onAC8FCj2wHaKD?w=143&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Plastic Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "546.00"
+    },
+    {
+      "id": "15",
+      "image": "https://th.bing.com/th/id/OIP.D_pwEeXgMioYQP4G5rc6AgHaHa?w=215&h=215&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Lather Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "543.00"
+    },
+    {
+      "id": "16",
+      "image": "https://th.bing.com/th/id/OIP.1uk3GV0k0jYo9Ac060rXhwHaHZ?w=201&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Plastic Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "506.00"
+    },
+    {
+      "id": "17",
+      "image": "https://th.bing.com/th/id/OIP.rrndwGY1VM2l0_A3tc-wrAHaHa?w=199&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Protective Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "446.00"
+    },
+    {
+      "id": "18",
+      "image": "https://th.bing.com/th/id/OIP.KfCs3RWJrCvxaj5peyYDQgHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Classy Mobile Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "433.00"
+    },
+    {
+      "id": "19",
+      "image": "https://th.bing.com/th/id/OIP.-xo3wULYzBy_AQvlgoZmRAHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Plastic Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "446.00"
+    },
+    {
+      "id": "20",
+      "image": "https://th.bing.com/th/id/OIP.fyxj021cQVHks3CddSrulgHaO0?w=115&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Protective Cover",
+      "discount": "20% off by Bewakoof",
+      "price": "646.00"
+    }
+  ],
+  "women": [
+    {
+      "id": "1",
+      "image": "https://images.bewakoof.com/t640/women-s-purple-oversized-t-shirt-581059-1698407790-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "536.00"
+    },
+    {
+      "id": "2",
+      "image": "https://images.bewakoof.com/t640/women-s-purple-oversized-t-shirt-502755-1700657112-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    },
+    {
+      "id": "3",
+      "image": "https://images.bewakoof.com/t640/women-s-blue-powerpufff-enough-graphic-printed-oversized-acid-wash-t-shirt-635595-1711008643-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "536.00"
+    },
+    {
+      "id": "4",
+      "image": "https://images.bewakoof.com/t640/women-s-black-power-up-graphic-printed-oversized-t-shirt-630870-1707367493-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "946.00"
+    },
+    {
+      "id": "5",
+      "image": "https://images.bewakoof.com/t640/women-s-black-cat-o-clock-graphic-printed-oversized-t-shirt-630879-1707367806-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "346.00"
+    },
+    {
+      "id": "6",
+      "image": "https://images.bewakoof.com/t640/women-s-black-fly-high-graphic-printed-oversized-t-shirt-630868-1707367317-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "446.00"
+    },
+    {
+      "id": "7",
+      "image": "https://images.bewakoof.com/t640/women-s-white-troublemaker-fanclub-graphic-printed-oversized-t-shirt-591336-1685177202-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "346.00"
+    },
+    {
+      "id": "8",
+      "image": "https://images.bewakoof.com/t640/women-aop-oversize-t-shirt-13-580374-1685446733-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "446.00"
+    },
+    {
+      "id": "9",
+      "image": "https://images.bewakoof.com/t640/women-multicolor-stripe-oversize-t-shirt-16-580381-1686300777-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "500.00"
+    },
+    {
+      "id": "10",
+      "image": "https://images.bewakoof.com/t640/women-purple-solid-oversize-t-shirt-580331-1686300365-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "540.00"
+    },
+    {
+      "id": "11",
+      "image": "https://images.bewakoof.com/t640/women-s-blue-stardust-soul-graphic-printed-oversized-t-shirt-580622-1708349628-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "506.00"
+    },
+    {
+      "id": "12",
+      "image": "https://images.bewakoof.com/t640/women-s-black-customizable-oversized-t-shirt-625974-1699446534-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "516.00"
+    },
+    {
+      "id": "13",
+      "image": "https://images.bewakoof.com/t640/women-s-black-be-curious-graphic-printed-oversized-t-shirt-620589-1695381817-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    },
+    {
+      "id": "14",
+      "image": "https://images.bewakoof.com/t640/women-aop-oversize-t-shirt-7-580365-1688995847-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "1206.00"
+    },
+    {
+      "id": "15",
+      "image": "https://images.bewakoof.com/t640/women-plain-oversized-fit-t-shirt-24-616047-1698407714-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "446.00"
+    },
+    {
+      "id": "16",
+      "image": "https://images.bewakoof.com/t640/women-s-black-ocean-child-graphic-printed-oversized-t-shirt-610991-1708436823-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "546.00"
+    },
+    {
+      "id": "17",
+      "image": "https://images.bewakoof.com/t640/women-blue-solid-tshirt-23-582040-1688996238-1.jpg",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "546.00"
+    },
+    {
+      "id": "18",
+      "image": "https://shop.bewakoof.com/cdn/shop/products/women-s-black-across-the-spiderverse-graphic-printed-boyfriend-t-shirt-599561-1687764951-1.jpg?v=1709667248&width=360",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    },
+    {
+      "id": "19",
+      "image": "https://shop.bewakoof.com/cdn/shop/products/women-s-green-tropical-vibes-graphic-printed-oversized-t-shirt-578842-1675833234-1_2f10216b-9606-46fc-8cd7-0719a9a93b47.jpg?v=1709660446&width=360",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    },
+    {
+      "id": "20",
+      "image": "https://shop.bewakoof.com/cdn/shop/files/women-s-black-snoopy-vibes-graphic-printed-oversized-t-shirt-633746-1711482050-1.jpg?v=1711651179&width=360",
+      "name": "Women's shirt",
+      "discount": "10%",
+      "price": "646.00"
+    }
+  ],
+  "user": [
+    {
+      "id": "5d65",
+      "name": "yash",
+      "email": "supriya0404255@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "18d0",
+      "name": "Supriya",
+      "email": "supriya0404255@gmail.com",
+      "password": "678"
+    },
+    {
+      "id": "f853",
+      "name": "dev",
+      "email": "cvdgg@dfgdg",
+      "password": "45"
+    },
+    {
+      "id": "ccaa",
+      "name": "Supriya",
+      "email": "supriya0404255@gmail.com",
+      "password": "56"
+    },
+    {
+      "id": "facf",
+      "name": "Supriya",
+      "email": "supriya0404255@gmail.com",
+      "password": "567"
+    },
+    {
+      "id": "bbec",
+      "name": "Supriya",
+      "email": "supriya0404255@gmail.com",
+      "password": "67"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0184",
+      "image": "https://images.bewakoof.com/t640/men-s-white-jujutsu-sorcerer-graphic-printed-oversized-t-shirt-602837-1697626161-1.jpg ",
+      "name": "Men's Extra long shirt",
+      "price": "746.00",
+      "quantity": 1
+    },
+    {
+      "id": "6e94",
+      "image": "https://images.bewakoof.com/t640/women-s-black-ocean-child-graphic-printed-oversized-t-shirt-610991-1708436823-1.jpg",
+      "name": "Women's shirt",
+      "price": "546.00",
+      "quantity": 1
+    }
+  ]
+}
