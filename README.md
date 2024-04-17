@@ -15,9 +15,7 @@ This project is a clone of the Bewakoof website, featuring pages like login, sig
 - **Cart Page**: Shows the items currently in the user's shopping cart.
 - **Men/Women/Accessories Product Pages**: Displays products specific to each category.![Product-Pages](https://i.postimg.cc/j2bHwNC0/Screenshot-581.png)
 
-![Women-products](https://i.postimg.cc/34fjmSb8/Screenshot-582.png)
-
-![Accessories](https://postimg.cc/z3MSfQgp][img]https://i.postimg.cc/z3MSfQgp/Screenshot-583.png)
+![Men-products](https://i.postimg.cc/z3MSfQgp/Screenshot-583.png)
 
 - **Navbar**: Navigation bar for easy access to different pages.
 - **Footer**: Includes links to important sections and social media.
