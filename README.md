@@ -1,7 +1,7 @@
 
 # Bewakoof Website Clone
 
-![Bewakoof clone](https://i.postimg.cc/1RH51s9v/Screenshot-580.png)](https://postimg.cc/HjrCQG8M)
+![Bewakoof clone](https://i.postimg.cc/1RH51s9v/Screenshot-580.png)
 
 ## Description
 
@@ -13,9 +13,11 @@ This project is a clone of the Bewakoof website, featuring pages like login, sig
 - **Signup Page**: Allows new users to sign up for an account.
 - **Home Page**: Displays featured products and promotions.
 - **Cart Page**: Shows the items currently in the user's shopping cart.
-- **Men/Women/Accessories Product Pages**: Displays products specific to each category.[![Product-Pages](https://i.postimg.cc/j2bHwNC0/Screenshot-581.png)]
+- **Men/Women/Accessories Product Pages**: Displays products specific to each category.![Product-Pages](https://i.postimg.cc/j2bHwNC0/Screenshot-581.png)
 
-[!WOmen-products(https://postimg.cc/34fjmSb8][img]https://i.postimg.cc/34fjmSb8/Screenshot-582.png)]
+![Women-products](https://i.postimg.cc/34fjmSb8/Screenshot-582.png)
+
+![Accessories](https://postimg.cc/z3MSfQgp][img]https://i.postimg.cc/z3MSfQgp/Screenshot-583.png)
 
 - **Navbar**: Navigation bar for easy access to different pages.
 - **Footer**: Includes links to important sections and social media.
